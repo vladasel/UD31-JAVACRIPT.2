@@ -1,0 +1,20 @@
+body{
+  display: flex;
+}
+
+#div_foto_miatura {
+  width: 50px;
+  height: 40px;
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+#div_foto_grande{
+  width: 400px;
+  height: 300px;
+  border: 1px solid black;
+  background-color: antiquewhite;
+
+}
